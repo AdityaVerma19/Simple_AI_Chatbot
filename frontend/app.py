@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 
 
-API_URL = "https://simple-ai-chatbot-2.onrender.com/"
+API_URL = "https://simple-ai-chatbot-2.onrender.com/chat"
 
 
 st.set_page_config(
